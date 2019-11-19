@@ -1,0 +1,4 @@
+﻿  StructureBinding2.cpp
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit05\StructureBinding2\StructureBinding2.cpp(10,17): error C2397: 从“int”转换到“char”需要收缩转换
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit05\StructureBinding2\StructureBinding2.cpp(10,28): warning C4305: “初始化”: 从“int”到“char”截断
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit05\StructureBinding2\StructureBinding2.cpp(10,17): warning C4309: “初始化”: 截断常量值

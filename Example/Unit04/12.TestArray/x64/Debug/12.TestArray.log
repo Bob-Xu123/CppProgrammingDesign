@@ -1,0 +1,3 @@
+﻿  TestArray.cpp
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit04\12.TestArray\TestArray.cpp(65,35): warning C4101: “aa”: 未引用的局部变量
+  12.TestArray.vcxproj -> C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\x64\Debug\12.TestArray.exe

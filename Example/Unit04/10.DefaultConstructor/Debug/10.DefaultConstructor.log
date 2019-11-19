@@ -1,0 +1,4 @@
+﻿  DefaultConstructor.cpp
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit04\10.DefaultConstructor\DefaultConstructor.cpp(35,1): error C2280: “Square::Square(void)”: 尝试引用已删除的函数
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit04\10.DefaultConstructor\DefaultConstructor.cpp(21): message : 参见“Square::Square”的声明
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit04\10.DefaultConstructor\DefaultConstructor.cpp(21,2): message : “Square::Square(void)”: 已隐式删除函数

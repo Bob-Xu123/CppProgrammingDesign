@@ -1,0 +1,2 @@
+﻿  ifWithInitializer.cpp
+C:\Users\xubo\Documents\GitHub\163Mooc\C++ programming design\Example\Unit03\ifWithInitializer\ifWithInitializer.cpp(18,24): error C2429: 语言功能 "if/switch 中的 init-statement" 需要编译器标志 "/std:c++17"
